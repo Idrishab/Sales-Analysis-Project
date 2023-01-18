@@ -14,3 +14,5 @@ Regards,
 Idris
 
 For this project, I downloaded the database on Advebture Works, made use of SQL for data cleaning and aggregation and exported the file to PowerBI for visualization.
+
+Read full story at https://link.medium.com/P2RiuqQl4vb 
